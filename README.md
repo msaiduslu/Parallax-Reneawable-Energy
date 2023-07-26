@@ -2,6 +2,8 @@
 
 [👉 click here to view the page](https://msaiduslu.github.io/Parallax-Reneawable-Energy/)
 
+<a href="hhttps://msaiduslu.github.io/Parallax-Reneawable-Energy/" target="_blank">[👉 click here to view the page]</a>
+
 # Project : Parallax Website
 
 ## Description
