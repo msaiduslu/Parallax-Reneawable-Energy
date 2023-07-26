@@ -1,8 +1,6 @@
 ![Project 003 Snapshot](Project_003_.gif)
 
-[👉 click here to view the page](https://msaiduslu.github.io/Parallax-Reneawable-Energy/)
-
-<a href="hhttps://msaiduslu.github.io/Parallax-Reneawable-Energy/" target="_blank">[👉 click here to view the page]</a>
+[👉 click here to view the page](https://msaiduslu.github.io/Parallax-Reneawable-Energy/){:target="\_blank"}
 
 # Project : Parallax Website
 
